@@ -47,7 +47,7 @@
         "library/": true,
         "obj/": true,
         "Obj/": true,
-        "ProjectSettings/": true,
+        "ProjectSettings/": false,
         "temp/": true,
         "Temp/": true
     },

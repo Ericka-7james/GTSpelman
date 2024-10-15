@@ -1,0 +1,38 @@
+Rotating Rig Fault Detection Unity Scene
+
+This Unity project demonstrates a rotating rig system where users can interact with the rig to explore fault injection, such as friction and misalignment. It also includes basic machine learning logic to detect faults and provide real-time feedback on the rig's behavior.
+
+Prerequisites
+Unity Editor: Download from Unity Hub and use version [insert version] or later to ensure compatibility.
+Git (Optional): If you plan to clone the project from GitHub, install Git from https://git-scm.com.
+How to Run the Project
+
+Option 1: Download the Zip File
+
+Download the RotatingRigProject.zip from the provided link.
+Extract the zip file to a folder on your computer.
+Open Unity Hub and click Add.
+Navigate to the folder where you extracted the project and select it.
+Click Open to load the project in Unity.
+In the Project window, go to Assets/Scenes and double-click RotatingRigScene.unity to open it.
+Press the Play button in Unity to start the simulation.
+
+Option 2: Clone from GitHub
+
+Open a terminal or command prompt.
+Run the following command to clone the repository:
+bash
+Copy code
+git clone https://github.com/YourUsername/YourRepository.git
+Open Unity Hub and click Add.
+Select the folder where the repository was cloned and click Open.
+Follow the same steps as above to open the scene and run it.
+
+Controls
+Friction Slider: Adjust the level of friction affecting the rig.
+Misalignment Slider: Control the wobble to simulate misalignment.
+
+Troubleshooting
+If Unity shows errors, make sure you’re using the correct version of the Unity Editor.
+If assets are missing, check that both the Assets/ and Packages/ folders are present in your project directory.
+If the simulation doesn’t run, make sure you’ve opened the RotatingRigScene.unity scene before clicking Play.
